@@ -1,4 +1,20 @@
-<h2 align="left">Hi 👋! My name is Abdurrahman and I'm a Junior Fullstack Developer</h2>
+<h1 align="center">Hi 👋, I'm Abdurrahman Dzakiy</h1>
+<h3 align="center">A Junior Software Enginer</h3>
+
+- 🌱 I’m currently learning **Native PHP and Laravel 11**
+
+- 👨‍💻 All of my projects are available at [https://abdurrahman-dzaki.vercel.app/](https://abdurrahman-dzaki.vercel.app/)
+
+- 💬 Ask me about **Editing and Design**
+
+- 📫 How to reach me **dzaakhidn@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/abdurrahman dzaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdurrahman dzaki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdurrahman dzaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrahman dzaki" height="30" width="40" /></a>
+<a href="https://instagram.com/dz.aak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dz.aak" height="30" width="40" /></a>
+</p>
 
 ###
 
