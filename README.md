@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DzaakhIdn
-- 👀 I’m interested in "Front end web developer"
-- 🌱 I’m currently learning HTML and Vanilla CSS
+- 👀 I’m interested in "Fullstack Developer"
+- 🌱 I’m currently learning about fullstack web developer {html, css, js, php}
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
