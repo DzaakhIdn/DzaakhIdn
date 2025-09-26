@@ -17,10 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaakhidn&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzaakhidn&theme=dracula&hide_border=false" alt="streak stats" />
-</p>
-
 ---
 
 ### 🛠️ Languages & Tools
